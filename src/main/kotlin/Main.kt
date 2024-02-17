@@ -5,6 +5,7 @@ fun main() = application {
     Window(onCloseRequest = ::exitApplication) {
         printASCII()
         mainScreen()
+        olrScn("\uD83C\uDF35olr")
     }
 }
 
