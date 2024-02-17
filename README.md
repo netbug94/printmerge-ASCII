@@ -7,7 +7,7 @@
 
 - [ ] This app is ment to be run in your IDE, don't compile it
 
-## Add your ASCII
+### Add your ASCII
 
 <div align="center">
 
@@ -15,7 +15,7 @@
 
 </div>
 
-## Print and copy it from you temrinal
+### Print and copy it from you temrinal
 
 <div align="center">
 
