@@ -10,4 +10,4 @@ pluginManagement {
     }
 }
 
-rootProject.name = "printMergedASCII"
+rootProject.name = "print-merge-ASCII"

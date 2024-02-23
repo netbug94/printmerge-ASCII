@@ -28,7 +28,7 @@ compose.desktop {
 
         nativeDistributions {
             targetFormats(TargetFormat.Dmg, TargetFormat.Msi, TargetFormat.Deb)
-            packageName = "printMergedASCII"
+            packageName = "Print Merge ASCII"
             packageVersion = "1.0.0"
         }
     }
